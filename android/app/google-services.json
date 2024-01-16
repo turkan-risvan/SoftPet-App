@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138361529187",
+    "project_id": "softpetapp-1ebfc",
+    "storage_bucket": "softpetapp-1ebfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138361529187:android:a09796e5663e6bd4466956",
+        "android_client_info": {
+          "package_name": "com.example.softpati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48PBOA8z_Cmaw8YtkHwDNjkJewd0b1y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
