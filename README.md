@@ -1,16 +1,27 @@
-# softPet
+# *SOFTPET*
+![Softpet](https://github.com/Hilalbiyik/SoftPet/assets/77548014/c0bbedd0-7bf5-4ffe-92bd-34536b4fc9ec)
 
-A new Flutter project.
+## Takım Elemanları
 
-## Getting Started
+- [Türkan Rişvan:](https://www.linkedin.com/in/türkan-rişvan/) Mobile Developer
+- [Hilal Bıyık:](https://www.linkedin.com/in/hilalbıyık/) Mobile Developer
+- [Oya Özcan:](https://www.linkedin.com/in/oya-özcan-b9521924a/) Mobile Developer
+- [Talha Coşkun:](https://www.linkedin.com/in/talha-coşkun-a54647214/) Mobile Developer
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Ürün Açıklaması
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- SoftPet ekibi olarak başlattığımız sosyal sorumluluk projesi, kayıp hayvanları bulma, sahiplendirme süreçlerini kolaylaştırmak ve hayvanlara daha iyi bir yaşam sunmak amacını taşımaktadır. Sahiplendirme platformumuz, kayıp ilanları ve bulma hizmetimiz ile hayvan severleri bir araya getirerek, terk edilmiş veya kaybolmuş hayvanlara yeni bir yuva sağlamayı hedeflemekteyiz. Ayrıca, düzenlenecek bağış kampanyaları aracılığıyla hayvan barınaklarına ve tedavi ihtiyacı olan hayvanlara destek olmayı amaçlıyoruz. Projemiz, hayvan dostlarımızın yaşamlarını iyileştirmek ve onlara sevgi dolu bir gelecek sunmak için adımlar atmaktadır. SoftPet Projesi'ne katılarak, siz de hayvanların hayatına dokunabilir ve onlara destek olabilirsiniz. 
+
+
+## Ürün Özellikleri
+- Sahiplendirme Platformu
+- Kayıp İlanları ve Bulma Hizmeti
+- Bağış Kampanyaları
+- Chat (Sohbet) Özelliği
+- Eğitim Videoları
+
+*Diğer Notlar*:
+  - [Trello](https://trello.com/invite/b/hXejgD2c/ATTI6a40d6837a73757b6630d18da653e7a51F90F70D/softpet) linki eklenmiştir.
+  - [Canva](https://www.canva.com/design/DAF3_YskSuw/9-_7-v8AO2m76O1RpvBBHg/edit) tasarımı burada yapılmıştır.
