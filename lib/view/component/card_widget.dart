@@ -43,13 +43,13 @@ class CustomCard extends StatelessWidget {
               ),
               Text(title,
                   style: GoogleFonts.outfit(
-                    textStyle: textTheme.subtitle2,
+                    textStyle: textTheme.displayMedium,
                   )),
 
               Text(
                 subtitle,
                 style: GoogleFonts.outfit(
-                    textStyle: textTheme.subtitle2, color: Colors.grey),
+                    textStyle: textTheme.displayMedium, color: Colors.grey),
               ),
             ],
           ),

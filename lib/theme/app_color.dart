@@ -74,28 +74,13 @@ static const String donate_animation = 'assets/donate_animationn.json';
 }
 
 TextTheme textTheme = TextTheme(
-  headline1: GoogleFonts.outfit(
-      fontSize: 107, fontWeight: FontWeight.w300, letterSpacing: -1.5),
-  headline2: GoogleFonts.outfit(
-      fontSize: 67, fontWeight: FontWeight.w300, letterSpacing: -0.5),
-  headline3: GoogleFonts.outfit(fontSize: 54, fontWeight: FontWeight.bold),
-  headline4: GoogleFonts.outfit(
-      fontSize: 38, fontWeight: FontWeight.w400, letterSpacing: 0.25),
-  headline5: GoogleFonts.outfit(fontSize: 27, fontWeight: FontWeight.w400),
-  headline6: GoogleFonts.outfit(
+  displayLarge: GoogleFonts.outfit(
+      fontSize: 22, fontWeight: FontWeight.w300, letterSpacing: -1.5),
+  displayMedium: GoogleFonts.outfit(
+      fontSize: 22, fontWeight: FontWeight.w300, letterSpacing: -0.5),
+   
+  headlineSmall: GoogleFonts.outfit(fontSize: 20, fontWeight: FontWeight.w400),
+  titleLarge: GoogleFonts.outfit(
       fontSize: 22, fontWeight: FontWeight.w500, letterSpacing: 0.15),
-  subtitle1: GoogleFonts.outfit(
-      fontSize: 18, fontWeight: FontWeight.w400, letterSpacing: 0.15),
-  subtitle2: GoogleFonts.outfit(
-      fontSize: 16, fontWeight: FontWeight.w500, letterSpacing: 0.1),
-  bodyText1: GoogleFonts.outfit(
-      fontSize: 18, fontWeight: FontWeight.w400, letterSpacing: 0.5),
-  bodyText2: GoogleFonts.outfit(
-      fontSize: 16, fontWeight: FontWeight.w400, letterSpacing: 0.25),
-  button: GoogleFonts.outfit(
-      fontSize: 16, fontWeight: FontWeight.w500, letterSpacing: 1.25),
-  caption: GoogleFonts.outfit(
-      fontSize: 13, fontWeight: FontWeight.w400, letterSpacing: 0.4),
-  overline: GoogleFonts.outfit(
-      fontSize: 11, fontWeight: FontWeight.w400, letterSpacing: 1.5),
+  
 );

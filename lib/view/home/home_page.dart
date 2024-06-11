@@ -131,7 +131,7 @@ class PageHome extends StatelessWidget {
         child: Text(
           'Departmants',
           style: GoogleFonts.outfit(
-              textStyle: textTheme.headline6, color: Colors.black),
+              textStyle: textTheme.titleLarge, color: Colors.black),
         ));
   }
 
@@ -148,7 +148,7 @@ class PageHome extends StatelessWidget {
                 child: Text(
                   'Merhaba',
                   style: GoogleFonts.outfit(
-                      textStyle: textTheme.headline5, color: Colors.black),
+                      textStyle: textTheme.headlineSmall, color: Colors.black),
                 ),
               ),
           

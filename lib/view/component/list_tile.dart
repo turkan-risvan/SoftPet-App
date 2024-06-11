@@ -43,12 +43,12 @@ class CustomListTile extends StatelessWidget {
                 title: Text(
                   title,
                   style: GoogleFonts.outfit(
-                      textStyle: textTheme.subtitle1, color: Colors.black),
+                      textStyle: textTheme.displayLarge, color: Colors.black),
                 ),
                 subtitle: Text(
                   subtitle,
                   style: GoogleFonts.outfit(
-                      textStyle: textTheme.subtitle2, color: Colors.grey),
+                      textStyle: textTheme.displayMedium, color: Colors.grey),
                 ),
                 trailing: Container(
                   color: Colors.white.withOpacity(0.6),
