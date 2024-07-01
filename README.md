@@ -1,5 +1,6 @@
 # *SOFTPET*
-![Uploading Softpet kopyası.png…]()
+ 
+![Softpet kopyası](https://github.com/turkan-risvan/SoftPet-App/assets/78659151/32108fc8-f52b-4112-a94a-04b236c4c562)
 
 
 
