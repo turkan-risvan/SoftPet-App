@@ -1,5 +1,5 @@
 # *SOFTPET*
-![Softpet]![Uploading Softpet kopyası.png…]()
+![Softpet]![Uploading Softpet kopyası.png…]
 
 
 ## Takım Elemanları
