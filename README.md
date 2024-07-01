@@ -1,5 +1,6 @@
 # *SOFTPET*
-![Softpet](https://github.com/Hilalbiyik/SoftPet/assets/77548014/c0bbedd0-7bf5-4ffe-92bd-34536b4fc9ec)
+![Softpet]![Uploading Softpet kopyası.png…]()
+
 
 ## Takım Elemanları
 
@@ -23,5 +24,6 @@
 - Eğitim Videoları
 
 *Diğer Notlar*:
+  - [Canva Sunum](https://www.canva.com/design/DAGJttFinJo/yi7H-rGIvv_A5Zr9sXPqmA/edit) linki eklenmiştir.
   - [Trello](https://trello.com/invite/b/hXejgD2c/ATTI6a40d6837a73757b6630d18da653e7a51F90F70D/softpet) linki eklenmiştir.
   - [Canva](https://www.canva.com/design/DAF3_YskSuw/9-_7-v8AO2m76O1RpvBBHg/edit) tasarımı burada yapılmıştır.
