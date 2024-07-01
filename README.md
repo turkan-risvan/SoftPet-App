@@ -4,11 +4,10 @@
 
 
 
-## Takım Elemanları
+## Takım Elemanı
 
 - [Türkan Rişvan:](https://www.linkedin.com/in/türkan-rişvan/) Mobile Developer
-- [Hilal Bıyık:](https://www.linkedin.com/in/hilalbıyık/) Mobile Developer
-- [Oya Özcan:](https://www.linkedin.com/in/oya-özcan-b9521924a/) Mobile Developer
+ 
 
 
 
